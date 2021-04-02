@@ -1,2 +1,2 @@
 # house_car_price_prediction
-Linear Regression problem examples : Car Price prediction and House Price prediction 
+Linear Regression problem examples : House Price prediction 
